@@ -1,0 +1,825 @@
+.bg-1 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      220px 360px;
+  }
+  .bg-2 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      220px 340px;
+  }
+  .bg-3 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      220px 320px;
+  }
+  .bg-4 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      220px 300px;
+  }
+  .bg-5 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      220px 280px;
+  }
+  .bg-6 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      220px 260px;
+  }
+  .bg-7 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      220px 240px;
+  }
+  .bg-8 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      220px 220px;
+  }
+  .bg-9 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      220px 200px;
+  }
+  .bg-10 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      220px 180px;
+  }
+  .bg-11 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      220px 160px;
+  }
+  .bg-12 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      220px 140px;
+  }
+  .bg-13 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      220px 120px;
+  }
+  .bg-14 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      220px 100px;
+  }
+  .bg-15 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      220px 80px;
+  }
+  .bg-16 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      220px 60px;
+  }
+  .bg-17 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      220px 40px;
+  }
+  .bg-18 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      220px 20px;
+  }
+  .bg-19 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 600px;
+  }
+  .bg-20 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 580px;
+  }
+  .bg-21 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 560px;
+  }
+  .bg-22 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 540px;
+  }
+  .bg-23 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 520px;
+  }
+  .bg-24 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 500px;
+  }
+  .bg-25 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 480px;
+  }
+  .bg-26 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 460px;
+  }
+  .bg-27 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 440px;
+  }
+  .bg-28 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 420px;
+  }
+  .bg-29 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 400px;
+  }
+  .bg-30 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 380px;
+  }
+  .bg-31 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 360px;
+  }
+  .bg-32 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 340px;
+  }
+  .bg-33 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 320px;
+  }
+  .bg-34 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 300px;
+  }
+  .bg-35 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 280px;
+  }
+  .bg-36 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 260px;
+  }
+  .bg-37 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 240px;
+  }
+  .bg-38 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 220px;
+  }
+  .bg-39 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 200px;
+  }
+  .bg-40 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 180px;
+  }
+  .bg-41 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 160px;
+  }
+  .bg-42 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 140px;
+  }
+  .bg-43 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 120px;
+  }
+  .bg-44 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 100px;
+  }
+  .bg-45 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 80px;
+  }
+  .bg-46 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 60px;
+  }
+  .bg-47 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 40px;
+  }
+  .bg-48 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      200px 20px;
+  }
+  .bg-49 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 600px;
+  }
+  .bg-50 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 580px;
+  }
+  .bg-51 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 560px;
+  }
+  .bg-52 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 540px;
+  }
+  .bg-53 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 520px;
+  }
+  .bg-54 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 500px;
+  }
+  .bg-55 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 480px;
+  }
+  .bg-56 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 460px;
+  }
+  .bg-57 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 440px;
+  }
+  .bg-58 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 420px;
+  }
+  .bg-59 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 400px;
+  }
+  .bg-60 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 380px;
+  }
+  .bg-61 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 340px;
+  }
+  .bg-62 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 320px;
+  }
+  .bg-63 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 300px;
+  }
+  .bg-64 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 280px;
+  }
+  .bg-65 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 260px;
+  }
+  
+  .bg-66 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 240px;
+  }
+  .bg-67 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 220px;
+  }
+  .bg-68 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 200px;
+  }
+  .bg-69 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 180px;
+  }
+  .bg-70 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 160px;
+  }
+  .bg-71 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 140px;
+  }
+  .bg-72 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 120px;
+  }
+  .bg-73 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 100px;
+  }
+  .bg-74 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 80px;
+  }
+  .bg-75 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 60px;
+  }
+  .bg-76 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 40px;
+  }
+  .bg-77 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      180px 20px;
+  }
+  .bg-78 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 600px;
+  }
+  .bg-79 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 580px;
+  }
+  .bg-80 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 540px;
+  }
+  .bg-81 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 480px;
+  }
+  .bg-82 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 460px;
+  }
+  .bg-83 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 440px;
+  }
+  .bg-84 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 420px;
+  }
+  .bg-85 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 400px;
+  }
+  .bg-86 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 380px;
+  }
+  .bg-87 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 360px;
+  }
+  .bg-88 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 340px;
+  }
+  .bg-89 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 320px;
+  }
+  .bg-90 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 300px;
+  }
+  .bg-91 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 280px;
+  }
+  .bg-92 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 260px;
+  }
+  .bg-93 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 240px;
+  }
+  .bg-94 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 220px;
+  }
+  .bg-95 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 200px;
+  }
+  .bg-96 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 180px;
+  }
+  .bg-97 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 160px;
+  }
+  .bg-98 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 140px;
+  }
+  .bg-99 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 120px;
+  }
+  .bg-100 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 100px;
+  }
+  .bg-101 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 60px;
+  }
+  .bg-102 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 40px;
+  }
+  .bg-103 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      160px 20px;
+  }
+  .bg-104 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      140px 600px;
+  }
+  .bg-105 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      140px 580px;
+  }
+  .bg-106 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      140px 560px;
+  }
+  .bg-107 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      140px 540px;
+  }
+  .bg-108 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      140px 520px;
+  }
+  .bg-109 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      140px 500px;
+  }
+  .bg-110 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      140px 480px;
+  }
+  .bg-111 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      140px 460px;
+  }
+  .bg-112 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      140px 440px;
+  }
+  .bg-113 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      600px 300px;
+  }
+  .bg-114 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      600px 280px;
+  }
+  .bg-115 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      600px 260px;
+  }
+  .bg-116 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      600px 240px;
+  }
+  .bg-117 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      600px 220px;
+  }
+  .bg-118 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      600px 200px;
+  }
+  .bg-119 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      600px 180px;
+  }
+  .bg-120 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      600px 160px;
+  }
+  .bg-121 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      600px 140px;
+  }
+  .bg-122 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      600px 120px;
+  }
+  .bg-123 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      600px 100px;
+  }
+  .bg-124 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      600px 80px;
+  }
+  .bg-125 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      600px 60px;
+  }
+  .bg-126 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      600px 40px;
+  }
+  .bg-127 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      600px 20px;
+  }
+  .bg-128 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      580px 400px;
+  }
+  .bg-129 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      580px 380px;
+  }
+  .bg-130 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      580px 360px;
+  }
+  .bg-131 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      580px 340px;
+  }
+  .bg-132 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      580px 320px;
+  }
+  .bg-133 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      580px 300px;
+  }
+  .bg-134 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      580px 280px;
+  }
+  .bg-135 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      580px 260px;
+  }
+  .bg-136 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      580px 240px;
+  }
+  .bg-137 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      580px 220px;
+  }
+  .bg-138 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      580px 200px;
+  }
+  .bg-139 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      580px 180px;
+  }
+  .bg-140 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      580px 160px;
+  }
+  .bg-141 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      580px 140px;
+  }
+  .bg-142 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      580px 120px;
+  }
+  .bg-143 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      580px 100px;
+  }
+  .bg-144 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      580px 80px;
+  }
+  .bg-145 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      580px 20px;
+  }
+  .bg-146 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 600px;
+  }
+  .bg-147 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 580px;
+  }
+  .bg-148 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 560px;
+  }
+  .bg-149 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 540px;
+  }
+  .bg-150 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 520px;
+  }
+  .bg-151 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 500px;
+  }
+  .bg-152 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 480px;
+  }
+  .bg-153 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 460px;
+  }
+  .bg-154 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 440px;
+  }
+  .bg-155 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 420px;
+  }
+  .bg-156 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 400px;
+  }
+  .bg-157 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 380px;
+  }
+  .bg-158 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 360px;
+  }
+  .bg-159 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 340px;
+  }
+  .bg-160 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 320px;
+  }
+  .bg-161 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 300px;
+  }
+  .bg-162 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 280px;
+  }
+  .bg-163 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 260px;
+  }
+  .bg-164 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 240px;
+  }
+  .bg-165 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 220px;
+  }
+  .bg-166 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 200px;
+  }
+  .bg-167 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 180px;
+  }
+  .bg-168 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 160px;
+  }
+  .bg-169 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 140px;
+  }
+  .bg-170 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 120px;
+  }
+  .bg-171 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 100px;
+  }
+  .bg-172 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 60px;
+  }
+  .bg-173 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 40px;
+  }
+  .bg-174 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      560px 20px;
+  }
+  .bg-175 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 600px;
+  }
+  .bg-176 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 580px;
+  }
+  .bg-177 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 560px;
+  }
+  .bg-178 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 540px;
+  }
+  .bg-179 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 520px;
+  }
+  .bg-180 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 500px;
+  }
+  .bg-181 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 480px;
+  }
+  .bg-182 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 460px;
+  }
+  .bg-183 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 440px;
+  }
+  .bg-184 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 420px;
+  }
+  .bg-185 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 400px;
+  }
+  .bg-186 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 380px;
+  }
+  .bg-187 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 360px;
+  }
+  .bg-188 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 340px;
+  }
+  .bg-189 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 320px;
+  }
+  .bg-190 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 300px;
+  }
+  .bg-191 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 280px;
+  }
+  .bg-192 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 260px;
+  }
+  .bg-193 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 240px;
+  }
+  .bg-194 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 220px;
+  }
+  .bg-195 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 200px;
+  }
+  .bg-196 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 180px;
+  }
+  .bg-197 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 160px;
+  }
+  .bg-198 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 140px;
+  }
+  .bg-199 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 120px;
+  }
+  .bg-200 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 100px;
+  }
+  .bg-201 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 80px;
+  }
+  .bg-202 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 60px;
+  }
+  .bg-203 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 40px;
+  }
+  .bg-204 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      540px 20px;
+  }
+  .bg-205 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      520px 600px;
+  }
+  .bg-206 {
+    background: url(https://anygo-imag.oss-cn-beijing.aliyuncs.com/webImg/emoji.png)
+      520px 580px;
+  }
